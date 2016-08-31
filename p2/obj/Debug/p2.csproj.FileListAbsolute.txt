@@ -1,0 +1,8 @@
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\bin\Debug\p2.exe.config
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\bin\Debug\p2.exe
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\bin\Debug\p2.pdb
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\bin\Debug\p1.exe
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\bin\Debug\p1.pdb
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\obj\Debug\p2.csprojResolveAssemblyReference.cache
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\obj\Debug\p2.exe
+C:\Users\nathi\Desktop\Aulas C#\solucao\p2\obj\Debug\p2.pdb
